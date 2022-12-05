@@ -1,0 +1,5 @@
+0,HighPRB
+1,Interfere
+2,NoAbnormal
+3,PrbSignalNoGood
+4,SignalNoGood
